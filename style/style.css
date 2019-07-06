@@ -160,7 +160,7 @@ ul#menu li a:hover, ul#menu li.selected a, ul#menu li.selected a:hover
   margin: 0 auto 0 auto;
   padding: 0 24px 20px 20px;
   background: #202020;
-  margin-top: 200px; /* Add a top margin to avoid content overlay */} 
+  margin-top: 20px; /* Add a top margin to avoid content overlay */} 
 
 
 #content
